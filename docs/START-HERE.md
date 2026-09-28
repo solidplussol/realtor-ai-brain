@@ -1,5 +1,7 @@
 # START HERE
 
+If you just came from the README, you are in the right place. This is the hands-on next step.
+
 Welcome. This tutorial is split into two parts so setup and actual use do not get mixed together.
 
 ## PART A — GET READY
@@ -15,7 +17,7 @@ In Part A, you will:
 - open the folder as an Obsidian vault (**vault** just means a folder opened in Obsidian)
 - install and sign into the Claude desktop app
 - confirm you have the required paid Claude plan
-- open the same folder in Claude Code
+- open the same folder in Claude's **Code** tab
 
 ## PART B — BUILD AND USE YOUR BRAIN
 
