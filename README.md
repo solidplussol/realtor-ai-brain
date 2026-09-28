@@ -388,6 +388,10 @@ Official Claude desktop quickstart: https://code.claude.com/docs/en/desktop-quic
 
 These are estimates. If this is your first time using these tools, budget extra time.
 
+## Important disclaimer
+
+**Disclaimer:** Realtor AI Brain is provided as a sample, informational, and productivity tool. It does not provide legal, financial, investment, tax, appraisal, brokerage, or other professional advice. AI-generated responses may be inaccurate, incomplete, or outdated, and no specific business, investment, or real-estate outcome is guaranteed. Users are responsible for independently verifying important information, exercising their own professional judgment, and making their own business and real-estate decisions. Users are also responsible for protecting confidential information and complying with applicable laws, brokerage policies, contracts, and third-party service terms.
+
 ## Ready to build your Realtor AI Brain?
 
 Before you start: This beginner setup uses the Claude desktop app's **Code** tab, which currently requires a Claude **Pro, Max, Team, or Enterprise** subscription. The guide walks you through the rest of the setup step by step.
