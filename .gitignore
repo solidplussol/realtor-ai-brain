@@ -1,0 +1,7 @@
+# Local Obsidian workspace state
+.obsidian/workspace*
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
